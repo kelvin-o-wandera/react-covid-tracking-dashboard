@@ -1,4 +1,4 @@
-# React COVID Tracking Dashboard
+# React COVID Tracking
 
 ## Available Scripts
 
